@@ -22,13 +22,13 @@ Pizza Day é uma aplicação web que permite aos usuários fazerem pedidos de pi
 ## Estrutura do Projeto
 
 PizzaDay/
-│
-├── index.html
-├── scripts/
-│ └── main.js
-├── styles/
-│ └── style.css
-└── README.md
+│ <br>
+├── index.html<br>
+├── scripts/<br>
+│ └── main.js<br>
+├── styles/<br>
+│ └── style.css<br>
+└── README.md<br>
 
 
 ## Como Executar o Projeto
